@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://rikonagata.github.io/csb-66425z/static/js/main.c9280aa8.chunk.js",
+    "main.js.map": "https://rikonagata.github.io/csb-66425z/static/js/main.c9280aa8.chunk.js.map",
+    "runtime-main.js": "https://rikonagata.github.io/csb-66425z/static/js/runtime-main.7424d518.js",
+    "runtime-main.js.map": "https://rikonagata.github.io/csb-66425z/static/js/runtime-main.7424d518.js.map",
+    "static/js/2.3c6b2b10.chunk.js": "https://rikonagata.github.io/csb-66425z/static/js/2.3c6b2b10.chunk.js",
+    "static/js/2.3c6b2b10.chunk.js.map": "https://rikonagata.github.io/csb-66425z/static/js/2.3c6b2b10.chunk.js.map",
+    "index.html": "https://rikonagata.github.io/csb-66425z/index.html",
+    "static/js/2.3c6b2b10.chunk.js.LICENSE.txt": "https://rikonagata.github.io/csb-66425z/static/js/2.3c6b2b10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7424d518.js",
+    "static/js/2.3c6b2b10.chunk.js",
+    "static/js/main.c9280aa8.chunk.js"
+  ]
+}
